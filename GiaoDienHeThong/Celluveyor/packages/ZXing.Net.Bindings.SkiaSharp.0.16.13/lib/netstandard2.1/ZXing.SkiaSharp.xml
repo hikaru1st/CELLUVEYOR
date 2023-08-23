@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ZXing.SkiaSharp</name>
+    </assembly>
+    <members>
+        <member name="T:ZXing.SkiaSharp.Rendering.SKBitmapRenderer">
+            <summary>
+            Renders a <see cref="T:ZXing.Common.BitMatrix" /> to a <see cref="T:SkiaSharp.SKBitmap" /> image
+            </summary>
+        </member>
+        <member name="P:ZXing.SkiaSharp.Rendering.SKBitmapRenderer.Foreground">
+            <summary>
+            Gets or sets the foreground color.
+            </summary>
+            <value>The foreground color.</value>
+        </member>
+        <member name="P:ZXing.SkiaSharp.Rendering.SKBitmapRenderer.Background">
+            <summary>
+            Gets or sets the background color.
+            </summary>
+            <value>The background color.</value>
+        </member>
+        <member name="P:ZXing.SkiaSharp.Rendering.SKBitmapRenderer.TextFont">
+            <summary>
+            Gets or sets the text font.
+            </summary>
+            <value>
+            The text font.
+            </value>
+        </member>
+        <member name="P:ZXing.SkiaSharp.Rendering.SKBitmapRenderer.TextSize">
+            <summary>
+            Gets or sets the height of the text
+            </summary>
+        </member>
+        <member name="M:ZXing.SkiaSharp.Rendering.SKBitmapRenderer.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:ZXing.SkiaSharp.Rendering.SKBitmapRenderer"/> class.
+            </summary>
+        </member>
+        <member name="M:ZXing.SkiaSharp.Rendering.SKBitmapRenderer.Render(ZXing.Common.BitMatrix,ZXing.BarcodeFormat,System.String)">
+            <summary>
+            Renders the specified matrix.
+            </summary>
+            <param name="matrix">The matrix.</param>
+            <param name="format">The format.</param>
+            <param name="content">The content.</param>
+            <returns></returns>
+        </member>
+        <member name="M:ZXing.SkiaSharp.Rendering.SKBitmapRenderer.Render(ZXing.Common.BitMatrix,ZXing.BarcodeFormat,System.String,ZXing.Common.EncodingOptions)">
+            <summary>
+            Renders the specified matrix.
+            </summary>
+            <param name="matrix">The matrix.</param>
+            <param name="format">The format.</param>
+            <param name="content">The content.</param>
+            <param name="options">The options.</param>
+            <returns></returns>
+        </member>
+        <member name="T:ZXing.SkiaSharp.BarcodeReader">
+            <summary>
+            a barcode reader class which can be used with the SKBitmap type from SkiaSharp
+            </summary>
+        </member>
+        <member name="F:ZXing.SkiaSharp.BarcodeReader.defaultCreateLuminanceSource">
+            <summary>
+            define a custom function for creation of a luminance source with our specialized SKBitmap-supporting class
+            </summary>
+        </member>
+        <member name="M:ZXing.SkiaSharp.BarcodeReader.#ctor">
+            <summary>
+            constructor which uses a custom luminance source with SKImage support
+            </summary>
+        </member>
+        <member name="T:ZXing.SkiaSharp.BarcodeWriter">
+            <summary>
+            A smart class to encode some content to a barcode image
+            </summary>
+        </member>
+        <member name="M:ZXing.SkiaSharp.BarcodeWriter.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:ZXing.SkiaSharp.SKBitmapLuminanceSource">
+            <summary>
+            A luminance source class which consumes a Mat image from SkiaSharp and calculates the luminance values based on the bytes of the image
+            </summary>
+        </member>
+        <member name="M:ZXing.SkiaSharp.SKBitmapLuminanceSource.#ctor(SkiaSharp.SKBitmap)">
+            <summary>
+            initializing constructor
+            </summary>
+            <param name="image"></param>
+        </member>
+        <member name="M:ZXing.SkiaSharp.SKBitmapLuminanceSource.#ctor(System.Byte[],System.Int32,System.Int32)">
+            <summary>
+            internal constructor used by CreateLuminanceSource
+            </summary>
+            <param name="luminances"></param>
+            <param name="width"></param>
+            <param name="height"></param>
+        </member>
+        <member name="M:ZXing.SkiaSharp.SKBitmapLuminanceSource.CreateLuminanceSource(System.Byte[],System.Int32,System.Int32)">
+            <summary>
+            Should create a new luminance source with the right class type.
+            The method is used in methods crop and rotate.
+            </summary>
+            <param name="newLuminances">The new luminances.</param>
+            <param name="width">The width.</param>
+            <param name="height">The height.</param>
+            <returns></returns>
+        </member>
+        <member name="T:ZXing.BarcodeReaderExtensions">
+            <summary>
+            extensions methods which are working directly on any IBarcodeReaderGeneric implementation
+            </summary>
+        </member>
+        <member name="M:ZXing.BarcodeReaderExtensions.Decode(ZXing.IBarcodeReaderGeneric,SkiaSharp.SKBitmap)">
+            <summary>
+            uses the IBarcodeReaderGeneric implementation and the <see cref="T:ZXing.SkiaSharp.SKBitmapLuminanceSource"/> class for decoding
+            </summary>
+            <param name="reader"></param>
+            <param name="image"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ZXing.BarcodeReaderExtensions.DecodeMultiple(ZXing.IBarcodeReaderGeneric,SkiaSharp.SKBitmap)">
+            <summary>
+            uses the IBarcodeReaderGeneric implementation and the <see cref="T:ZXing.SkiaSharp.SKBitmapLuminanceSource"/> class for decoding
+            </summary>
+            <param name="reader"></param>
+            <param name="image"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

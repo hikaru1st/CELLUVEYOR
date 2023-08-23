@@ -1,0 +1,25 @@
+--cpu Cortex-M3
+"masterpwm\startup_stm32f103xb.o"
+"masterpwm\main.o"
+"masterpwm\stm32f1xx_it.o"
+"masterpwm\stm32f1xx_hal_msp.o"
+"masterpwm\stm32f1xx_hal_gpio_ex.o"
+"masterpwm\stm32f1xx_hal_can.o"
+"masterpwm\stm32f1xx_hal.o"
+"masterpwm\stm32f1xx_hal_rcc.o"
+"masterpwm\stm32f1xx_hal_rcc_ex.o"
+"masterpwm\stm32f1xx_hal_gpio.o"
+"masterpwm\stm32f1xx_hal_dma.o"
+"masterpwm\stm32f1xx_hal_cortex.o"
+"masterpwm\stm32f1xx_hal_pwr.o"
+"masterpwm\stm32f1xx_hal_flash.o"
+"masterpwm\stm32f1xx_hal_flash_ex.o"
+"masterpwm\stm32f1xx_hal_exti.o"
+"masterpwm\stm32f1xx_hal_tim.o"
+"masterpwm\stm32f1xx_hal_tim_ex.o"
+"masterpwm\stm32f1xx_hal_uart.o"
+"masterpwm\system_stm32f1xx.o"
+--strict --scatter "MasterPWM\MasterPWM.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "MasterPWM.map" -o MasterPWM\MasterPWM.axf

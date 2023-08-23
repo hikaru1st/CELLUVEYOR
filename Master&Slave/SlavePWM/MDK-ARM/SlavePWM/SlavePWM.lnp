@@ -1,0 +1,24 @@
+--cpu Cortex-M3
+"slavepwm\startup_stm32f103xb.o"
+"slavepwm\main.o"
+"slavepwm\stm32f1xx_it.o"
+"slavepwm\stm32f1xx_hal_msp.o"
+"slavepwm\stm32f1xx_hal_gpio_ex.o"
+"slavepwm\stm32f1xx_hal_can.o"
+"slavepwm\stm32f1xx_hal.o"
+"slavepwm\stm32f1xx_hal_rcc.o"
+"slavepwm\stm32f1xx_hal_rcc_ex.o"
+"slavepwm\stm32f1xx_hal_gpio.o"
+"slavepwm\stm32f1xx_hal_dma.o"
+"slavepwm\stm32f1xx_hal_cortex.o"
+"slavepwm\stm32f1xx_hal_pwr.o"
+"slavepwm\stm32f1xx_hal_flash.o"
+"slavepwm\stm32f1xx_hal_flash_ex.o"
+"slavepwm\stm32f1xx_hal_exti.o"
+"slavepwm\stm32f1xx_hal_tim.o"
+"slavepwm\stm32f1xx_hal_tim_ex.o"
+"slavepwm\system_stm32f1xx.o"
+--strict --scatter "SlavePWM\SlavePWM.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "SlavePWM.map" -o SlavePWM\SlavePWM.axf

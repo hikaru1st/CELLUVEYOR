@@ -1,0 +1,304 @@
+D:\DOANTOTNGHIEP\GIAODIEN\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\DOANTOTNGHIEP\GIAODIEN\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\DOANTOTNGHIEP\GIAODIEN\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\DOANTOTNGHIEP\GIAODIEN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\DOANTOTNGHIEP\GIAODIEN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\DOANTOTNGHIEP\GIAODIEN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\DOANTOTNGHIEP\GIAODIEN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\DOANTOTNGHIEP\GIAODIEN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\DOANTOTNGHIEP\GIAODIEN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\DOANTOTNGHIEP\GIAODIEN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\DOANTOTNGHIEP\GIAODIEN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\Microsoft.Dynamic.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\Microsoft.Scripting.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\Microsoft.Dynamic.xml
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\Microsoft.Scripting.xml
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\Microsoft.Scripting.Metadata.xml
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\AForge.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\AForge.Video.DirectShow.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\AForge.Video.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\AForge.xml
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\AForge.Video.xml
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\AForge.Video.DirectShow.xml
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\CrystalDecisions.Shared.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\log4net.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\Net4Sage.CIUtils.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\Net4Sage.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\Net4Sage.IMUtils.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\Net4Sage.ModuleUtils.DataAccessModel.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\log4net.xml
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\AForge.Imaging.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\AForge.Math.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\AForge.Imaging.xml
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\AForge.Math.xml
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\AForge.Vision.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\AForge.Vision.xml
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\Emgu.CV.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\OpenCvSharp.dll
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\Emgu.CV.xml
+D:\DOANTOTNGHIEP\GIAODIEN_XULYANH\WindowsFormsApp1\bin\Debug\OpenCvSharp.xml
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\AForge.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\AForge.Imaging.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\AForge.Math.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\AForge.Video.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\AForge.Vision.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\Emgu.CV.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\log4net.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\Microsoft.Scripting.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\Net4Sage.CIUtils.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\Net4Sage.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\Net4Sage.IMUtils.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\Net4Sage.ModuleUtils.DataAccessModel.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\OpenCvSharp.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\AForge.xml
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\AForge.Imaging.xml
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\AForge.Math.xml
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\AForge.Video.xml
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\AForge.Vision.xml
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\Emgu.CV.xml
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\log4net.xml
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\Microsoft.Scripting.xml
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\OpenCvSharp.xml
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\System.CodeDom.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\System.IO.Ports.dll
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+C:\Users\PDP\OneDrive - hcmute.edu.vn\DATN\CODE\GIAODIEN\WindowsFormsApp1\bin\Debug\System.IO.Ports.xml
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Imaging.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Math.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Vision.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\log4net.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Scripting.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Net4Sage.CIUtils.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Net4Sage.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Net4Sage.IMUtils.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Net4Sage.ModuleUtils.DataAccessModel.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenCvSharp.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Ports.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.xml
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Imaging.xml
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Math.xml
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.xml
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Vision.xml
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.xml
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\log4net.xml
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Scripting.xml
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenCvSharp.xml
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Ports.xml
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+C:\Users\huuth\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
